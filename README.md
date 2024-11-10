@@ -1,4 +1,4 @@
-## flowchart
+## flowchart latihan 1
 ![flowchart](/flowchart1.png)
 
 
@@ -33,7 +33,7 @@ Selesai
 ```
 
 
-## cara kerja program
+## cara kerja program latihan 1
 - Import random: Program dimulai dengan mengimpor modul random. Modul ini berisi fungsi random() yang digunakan untuk menghasilkan bilangan acak.
 
 - Masukan Nilai N: Program meminta pengguna untuk memasukkan nilai N, yang merupakan jumlah bilangan acak yang ingin dihasilkan.
@@ -79,11 +79,11 @@ print(f"Total laba adalah: {int(total_laba)}")
 ```
 
 
-## Flowchart
-![flowchart}()
+## Flowchart latihan 2
+![flowchart](flowchart2.png)
 
 
-## out put program
+## out put program latihan 2
 ```
 PS C:\tugas membuat struk> & C:/Users/Syahrul/AppData/Local/Microsoft/WindowsApps/python3.11.exe "c:/tugas membuat struk/latihan2.py"
 Laba bulan ke-1 sebesar: 0
@@ -99,7 +99,7 @@ PS C:\tugas membuat struk>
 ```
 
 
-## cara kerja program
+## cara kerja program latihan 2
 Program yang Anda berikan menghitung dan mencetak laba bulanan dari sebuah investasi awal selama 8 bulan. Berikut adalah kesimpulan cara kerja program tersebut:
 - Inisialisasi Modal Awal: Program dimulai dengan mendefinisikan modal awal sebesar 100 juta (100000000).
 - Inisialisasi Laba Bulanan: Sebuah list laba_bulan diinisialisasi dengan 8 elemen yang semuanya bernilai 0. List ini akan digunakan untuk menyimpan laba yang diperoleh setiap bulan.
@@ -157,7 +157,7 @@ while True:
 
 
 ## Flowchart latihan 3
-![flowchart]()
+![flowchart](/flowchart3.png)
 
 
 
@@ -181,7 +181,7 @@ PS C:\tugas membuat struk>
 ```
 
 
-## cara kerja program
+## cara kerja program latihan 3
 Program ATM yang disajikan adalah sebuah simulasi sederhana yang memungkinkan pengguna untuk mengelola saldo mereka dengan dua fungsi utama: menarik uang dan keluar dari program. Berikut adalah ringkasan cara kerja program ini:
 
 Inisialisasi Saldo:
